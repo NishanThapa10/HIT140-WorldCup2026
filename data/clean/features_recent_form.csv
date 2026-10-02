@@ -1,0 +1,209 @@
+Match_ID,Team,Rest_Days,Last_Match_Points,Last_Match_Goal_Diff,Last_Match_Result
+1,Mexico,7.0,1.0,0.0,D
+1,South Africa,7.0,1.0,0.0,D
+2,Czechia,7.0,1.0,0.0,D
+2,Korea Republic,7.0,1.0,0.0,D
+3,Bosnia-Herz,7.0,1.0,0.0,D
+3,Canada,7.0,1.0,0.0,D
+4,Paraguay,7.0,1.0,0.0,D
+4,USA,7.0,1.0,0.0,D
+5,Qatar,7.0,1.0,0.0,D
+5,Switzerland,7.0,1.0,0.0,D
+6,Brazil,7.0,1.0,0.0,D
+6,Morocco,7.0,1.0,0.0,D
+7,Australia,7.0,1.0,0.0,D
+7,Turkiye,7.0,1.0,0.0,D
+8,Haiti,7.0,1.0,0.0,D
+8,Scotland,7.0,1.0,0.0,D
+9,Curacao,7.0,1.0,0.0,D
+9,Germany,7.0,1.0,0.0,D
+10,Japan,7.0,1.0,0.0,D
+10,Netherlands,7.0,1.0,0.0,D
+11,Cote d'Ivoire,7.0,1.0,0.0,D
+11,Ecuador,7.0,1.0,0.0,D
+12,Sweden,7.0,1.0,0.0,D
+12,Tunisia,7.0,1.0,0.0,D
+13,Belgium,7.0,1.0,0.0,D
+13,Egypt,7.0,1.0,0.0,D
+14,Cabo Verde,7.0,1.0,0.0,D
+14,Spain,7.0,1.0,0.0,D
+15,Saudi Arabia,7.0,1.0,0.0,D
+15,Uruguay,7.0,1.0,0.0,D
+16,IR Iran,7.0,1.0,0.0,D
+16,New Zealand,7.0,1.0,0.0,D
+17,France,7.0,1.0,0.0,D
+17,Senegal,7.0,1.0,0.0,D
+18,Iraq,7.0,1.0,0.0,D
+18,Norway,7.0,1.0,0.0,D
+19,Algeria,7.0,1.0,0.0,D
+19,Argentina,7.0,1.0,0.0,D
+20,Austria,7.0,1.0,0.0,D
+20,Jordan,7.0,1.0,0.0,D
+21,Congo DR,7.0,1.0,0.0,D
+21,Portugal,7.0,1.0,0.0,D
+22,Croatia,7.0,1.0,0.0,D
+22,England,7.0,1.0,0.0,D
+23,Ghana,7.0,1.0,0.0,D
+23,Panama,7.0,1.0,0.0,D
+24,Colombia,7.0,1.0,0.0,D
+24,Uzbekistan,7.0,1.0,0.0,D
+25,Czechia,7.0,0.0,-1.0,L
+25,South Africa,7.0,0.0,-2.0,L
+26,Bosnia-Herz,6.0,1.0,0.0,D
+26,Switzerland,5.0,1.0,0.0,D
+27,Canada,6.0,1.0,0.0,D
+27,Qatar,5.0,1.0,0.0,D
+28,Korea Republic,7.0,3.0,1.0,W
+28,Mexico,7.0,3.0,2.0,W
+29,Australia,6.0,3.0,2.0,W
+29,USA,7.0,3.0,3.0,W
+30,Morocco,6.0,1.0,0.0,D
+30,Scotland,6.0,3.0,1.0,W
+31,Paraguay,7.0,0.0,-3.0,L
+31,Turkiye,6.0,0.0,-2.0,L
+32,Brazil,6.0,1.0,0.0,D
+32,Haiti,6.0,0.0,-1.0,L
+33,Netherlands,6.0,1.0,0.0,D
+33,Sweden,6.0,3.0,4.0,W
+34,Cote d'Ivoire,6.0,3.0,1.0,W
+34,Germany,6.0,3.0,6.0,W
+35,Curacao,6.0,0.0,-6.0,L
+35,Ecuador,6.0,0.0,-1.0,L
+36,Japan,6.0,1.0,0.0,D
+36,Tunisia,6.0,0.0,-4.0,L
+37,Saudi Arabia,6.0,1.0,0.0,D
+37,Spain,6.0,1.0,0.0,D
+38,Belgium,6.0,1.0,0.0,D
+38,IR Iran,6.0,1.0,0.0,D
+39,Cabo Verde,6.0,1.0,0.0,D
+39,Uruguay,6.0,1.0,0.0,D
+40,Egypt,6.0,1.0,0.0,D
+40,New Zealand,6.0,1.0,0.0,D
+41,Argentina,6.0,3.0,3.0,W
+41,Austria,6.0,3.0,2.0,W
+42,France,6.0,3.0,2.0,W
+42,Iraq,6.0,0.0,-3.0,L
+43,Norway,6.0,3.0,3.0,W
+43,Senegal,6.0,0.0,-2.0,L
+44,Algeria,6.0,0.0,-3.0,L
+44,Jordan,6.0,0.0,-2.0,L
+45,Portugal,6.0,1.0,0.0,D
+45,Uzbekistan,6.0,0.0,-2.0,L
+46,England,6.0,3.0,2.0,W
+46,Ghana,6.0,3.0,1.0,W
+47,Croatia,6.0,0.0,-2.0,L
+47,Panama,6.0,0.0,-1.0,L
+48,Colombia,6.0,3.0,2.0,W
+48,Congo DR,6.0,1.0,0.0,D
+49,Canada,6.0,3.0,6.0,W
+49,Switzerland,6.0,3.0,3.0,W
+50,Bosnia-Herz,6.0,0.0,-3.0,L
+50,Qatar,6.0,0.0,-6.0,L
+51,Brazil,5.0,3.0,3.0,W
+51,Scotland,5.0,0.0,-1.0,L
+52,Haiti,5.0,0.0,-3.0,L
+52,Morocco,5.0,3.0,1.0,W
+53,Korea Republic,6.0,0.0,-1.0,L
+53,South Africa,6.0,1.0,0.0,D
+54,Czechia,6.0,1.0,0.0,D
+54,Mexico,6.0,3.0,1.0,W
+55,Cote d'Ivoire,5.0,0.0,-1.0,L
+55,Curacao,5.0,1.0,0.0,D
+56,Ecuador,5.0,1.0,0.0,D
+56,Germany,5.0,3.0,1.0,W
+57,Netherlands,5.0,3.0,4.0,W
+57,Tunisia,5.0,0.0,-4.0,L
+58,Japan,5.0,3.0,4.0,W
+58,Sweden,5.0,0.0,-4.0,L
+59,Turkiye,6.0,0.0,-1.0,L
+59,USA,6.0,3.0,2.0,W
+60,Australia,6.0,0.0,-2.0,L
+60,Paraguay,6.0,3.0,1.0,W
+61,France,4.0,3.0,3.0,W
+61,Norway,4.0,3.0,1.0,W
+62,Iraq,4.0,0.0,-3.0,L
+62,Senegal,4.0,0.0,-1.0,L
+63,Spain,5.0,3.0,4.0,W
+63,Uruguay,5.0,1.0,0.0,D
+64,Cabo Verde,5.0,1.0,0.0,D
+64,Saudi Arabia,5.0,0.0,-4.0,L
+65,Egypt,5.0,3.0,2.0,W
+65,IR Iran,5.0,1.0,0.0,D
+66,Belgium,5.0,1.0,0.0,D
+66,New Zealand,5.0,0.0,-2.0,L
+67,Croatia,4.0,3.0,1.0,W
+67,Ghana,4.0,1.0,0.0,D
+68,England,4.0,1.0,0.0,D
+68,Panama,4.0,0.0,-1.0,L
+69,Congo DR,4.0,0.0,-1.0,L
+69,Uzbekistan,4.0,0.0,-5.0,L
+70,Colombia,4.0,3.0,1.0,W
+70,Portugal,4.0,3.0,5.0,W
+71,Argentina,5.0,3.0,2.0,W
+71,Jordan,5.0,0.0,-1.0,L
+72,Algeria,5.0,3.0,1.0,W
+72,Austria,5.0,0.0,-2.0,L
+73,Canada,4.0,0.0,-1.0,L
+73,South Africa,4.0,3.0,1.0,W
+74,Brazil,5.0,3.0,3.0,W
+74,Japan,4.0,1.0,0.0,D
+75,Germany,4.0,0.0,-1.0,L
+75,Paraguay,4.0,1.0,0.0,D
+76,Morocco,5.0,3.0,2.0,W
+76,Netherlands,4.0,3.0,2.0,W
+77,Cote d'Ivoire,5.0,3.0,2.0,W
+77,Norway,4.0,0.0,-3.0,L
+78,France,4.0,3.0,3.0,W
+78,Sweden,5.0,1.0,0.0,D
+79,Ecuador,5.0,3.0,1.0,W
+79,Mexico,6.0,3.0,3.0,W
+80,Congo DR,4.0,3.0,2.0,W
+80,England,4.0,3.0,2.0,W
+81,Belgium,5.0,3.0,4.0,W
+81,Senegal,5.0,3.0,5.0,W
+82,Bosnia-Herz,7.0,3.0,2.0,W
+82,USA,6.0,0.0,-1.0,L
+83,Austria,5.0,1.0,0.0,D
+83,Spain,6.0,3.0,1.0,W
+84,Croatia,5.0,3.0,1.0,W
+84,Portugal,5.0,1.0,0.0,D
+85,Algeria,5.0,1.0,0.0,D
+85,Switzerland,7.0,3.0,1.0,W
+86,Australia,7.0,1.0,0.0,D
+86,Egypt,7.0,1.0,0.0,D
+87,Argentina,6.0,3.0,2.0,W
+87,Cabo Verde,7.0,1.0,0.0,D
+88,Colombia,6.0,1.0,0.0,D
+88,Ghana,6.0,0.0,-1.0,L
+89,Canada,6.0,3.0,1.0,W
+89,Morocco,5.0,1.0,0.0,D
+90,France,4.0,3.0,3.0,W
+90,Paraguay,5.0,1.0,0.0,D
+91,Brazil,6.0,3.0,1.0,W
+91,Norway,5.0,3.0,1.0,W
+92,England,4.0,3.0,1.0,W
+92,Mexico,5.0,3.0,2.0,W
+93,Portugal,4.0,3.0,1.0,W
+93,Spain,4.0,3.0,3.0,W
+94,Belgium,5.0,3.0,1.0,W
+94,USA,5.0,3.0,2.0,W
+95,Argentina,4.0,3.0,1.0,W
+95,Egypt,4.0,1.0,0.0,D
+96,Colombia,4.0,3.0,1.0,W
+96,Switzerland,5.0,3.0,2.0,W
+97,France,5.0,3.0,1.0,W
+97,Morocco,5.0,3.0,3.0,W
+98,Belgium,4.0,3.0,3.0,W
+98,Spain,4.0,3.0,1.0,W
+99,England,6.0,3.0,1.0,W
+99,Norway,6.0,3.0,1.0,W
+100,Argentina,4.0,3.0,1.0,W
+100,Switzerland,4.0,1.0,0.0,D
+101,France,5.0,3.0,2.0,W
+101,Spain,4.0,3.0,1.0,W
+102,Argentina,4.0,3.0,2.0,W
+102,England,4.0,3.0,1.0,W
+103,England,3.0,0.0,-1.0,L
+103,France,4.0,0.0,-2.0,L
+104,Argentina,4.0,3.0,1.0,W
+104,Spain,5.0,3.0,2.0,W
