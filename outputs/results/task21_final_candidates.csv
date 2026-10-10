@@ -1,0 +1,6 @@
+candidate,RMSE,change_vs_1,folds_improved_%
+"1. OLS, original 8",1.591,0.0,0.0
+"2. OLS, best 8 (clipped FIFA replaces squad age)",1.564,-0.027,74.0
+"3. Ridge, original 8",1.589,-0.002,56.0
+"4. Ridge, best 8",1.544,-0.047,73.0
+"5. Lasso, best 8",1.568,-0.023,66.0

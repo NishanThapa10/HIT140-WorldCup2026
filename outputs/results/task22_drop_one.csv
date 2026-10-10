@@ -1,0 +1,9 @@
+variable,RMSE_without,RMSE_increase,folds_worse_%
+FIFA_Points_Diff,1.426,0.171,97.0
+Last_Match_Points,1.255,-0.001,61.0
+Home_Country_Advantage,1.254,-0.001,50.0
+Last_Match_Goal_Diff,1.253,-0.002,58.0
+Rest_Days,1.252,-0.003,60.0
+Stage_Level,1.247,-0.008,42.0
+Opp_Squad_Age,1.247,-0.008,40.0
+Matches_Played_Before,1.247,-0.008,24.0

@@ -1,0 +1,7 @@
+candidate,RMSE,change_vs_1,folds_improved_%
+"1. OLS, original 8",1.255,0.0,0.0
+"2. OLS, best 8 (win flag, age distance)",1.239,-0.016,82.0
+"3. Ridge, original 8",1.246,-0.01,63.0
+"4. Lasso, original 8",1.232,-0.023,79.0
+"5. Ridge, best 8",1.23,-0.025,81.0
+"6. Lasso, best 8",1.236,-0.019,83.0

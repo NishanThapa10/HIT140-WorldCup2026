@@ -1,0 +1,9 @@
+variable,RMSE_without,RMSE_increase,folds_worse_%
+FIFA_Points_Diff,1.969,0.378,94.0
+Stage_Level,1.612,0.021,69.0
+Avg_GF_Before_Diff,1.595,0.004,60.0
+Avg_GA_Before_Diff,1.587,-0.004,60.0
+Same_Confederation,1.584,-0.007,60.0
+Home_Country_Advantage_Diff,1.583,-0.009,63.0
+Rest_Days_Diff,1.581,-0.01,56.0
+Squad_Age_Diff,1.573,-0.018,24.0
