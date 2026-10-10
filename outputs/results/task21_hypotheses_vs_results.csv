@@ -1,0 +1,9 @@
+variable,expected,coef,p_value,decision (5%),direction
+FIFA_Points_Diff,+,0.006,0.0,Reject H0,as expected
+Stage_Level,?,-0.379,0.021,Reject H0,no expectation
+Rest_Days_Diff,+,0.382,0.286,Fail to reject H0,as expected
+Home_Country_Advantage_Diff,+,0.637,0.158,Fail to reject H0,as expected
+Same_Confederation,?,0.581,0.25,Fail to reject H0,no expectation
+Squad_Age_Diff,?,0.023,0.793,Fail to reject H0,no expectation
+Avg_GF_Before_Diff,+,-0.328,0.232,Fail to reject H0,OPPOSITE
+Avg_GA_Before_Diff,-,-0.386,0.193,Fail to reject H0,as expected
