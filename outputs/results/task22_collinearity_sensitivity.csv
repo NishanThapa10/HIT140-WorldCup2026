@@ -1,0 +1,8 @@
+,coef_full,p_full,coef_without,p_without
+Stage_Level,0.15,0.474,0.068,0.472
+FIFA_Points_Diff,0.003,0.0,0.003,0.0
+Rest_Days,-0.137,0.314,-0.093,0.307
+Home_Country_Advantage,0.639,0.08,0.612,0.088
+Last_Match_Points,-0.271,0.053,-0.281,0.042
+Last_Match_Goal_Diff,0.094,0.269,0.098,0.242
+Opp_Squad_Age,-0.036,0.569,-0.035,0.575
