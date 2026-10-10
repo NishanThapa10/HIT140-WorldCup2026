@@ -1,0 +1,6 @@
+variant,RMSE,R2,RMSE_change_vs_A
+A. Original 8,1.255,0.144,0.0
+B. Last_Match_Points -> Last_Match_Win,1.245,0.157,-0.01
+C. Last_Match_Goal_Diff -> capped at +/-3,1.257,0.141,0.002
+D. Opp_Squad_Age -> distance from average age,1.249,0.152,-0.006
+E. B + C together,1.246,0.155,-0.009

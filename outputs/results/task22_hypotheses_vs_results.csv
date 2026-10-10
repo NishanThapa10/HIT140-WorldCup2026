@@ -1,0 +1,9 @@
+variable,expected,coef,p_value,p_clustered,decision (5%),same under clustering?,direction
+FIFA_Points_Diff,+,0.003,0.0,0.0,Reject H0,yes,as expected
+Stage_Level,-,0.15,0.474,0.506,Fail to reject H0,yes,OPPOSITE
+Rest_Days,+,-0.137,0.314,0.288,Fail to reject H0,yes,OPPOSITE
+Home_Country_Advantage,+,0.639,0.08,0.14,Fail to reject H0,yes,as expected
+Matches_Played_Before,?,-0.077,0.661,0.667,Fail to reject H0,yes,no expectation
+Last_Match_Points,+,-0.271,0.053,0.111,Fail to reject H0,yes,OPPOSITE
+Last_Match_Goal_Diff,+,0.094,0.269,0.196,Fail to reject H0,yes,as expected
+Opp_Squad_Age,?,-0.036,0.569,0.613,Fail to reject H0,yes,no expectation
